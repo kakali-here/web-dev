@@ -1,0 +1,16 @@
+h1{
+color: blue;
+}
+
+span{
+    color: green;
+}
+
+/* to select an id use # before id name */
+#heading-1{
+    color: red;  
+}
+/* to select a class use . before class name */
+.para{
+    font-style: italic;
+}
